@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BmiFy</string>
+    <string name="result">Result</string>
+    <string name="enter_your_weight_in_kg">Enter your weight in kg</string>
+    <string name="enter_your_height_in_ft">Enter your height in (ft)</string>
+    <string name="enter_height_in_inch">enter height in inch</string>
+    <string name="submit">Submit</string>
+    <string name="you_ve_are_over_weight">You\'ve are Over Weight</string>
+    <string name="you_ve_are_under_weight">You\'ve are Under Weight</string>
+    <string name="you_ve_are_healthy">"You've are Healthy "</string>
+</resources>
